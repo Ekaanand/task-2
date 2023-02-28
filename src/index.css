@@ -1,0 +1,63 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: linear-gradient(to left, #d94fb4, #e94698, #f1457c, #f14c60, #ea5946, #e74e44, #e44242, #e03441, #d8005d, #c0007e, #93009f, #3124bb);
+  /*background-image: linear-gradient(to left bottom, #e67d13, #f36236, #f74655, #ef3074, #db2c93, #c92aa1, #b22fad, #9536b9, #832fb9, #6e2aba, #5526bb, #3124bb);
+  /*background-image: url("https://c4.wallpaperflare.com/wallpaper/284/312/36/colorful-blurred-vertical-portrait-display-wallpaper-preview.jpg");*/
+
+  height: 1000;
+  margin-top: -70px;
+  font-size: 50px;
+  /* background-repeat: no-repeat;*/
+}
+
+h3 {
+  font-family: "Times New Roman";
+  color: aliceblue;
+  background-color: black;
+}
+
+div {
+  color: aliceblue;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
+/*span {
+  float: left;
+  color: navy;
+  text-decoration: underline;
+}*/
+img {
+  height: 85px;
+  width: 80px;
+  float: left;
+
+  align-items: center;
+}
+.box {
+  font-size: 20%;
+  width: 300px;
+  height: 100px;
+  line-height: 20px;
+  border: 3px solid black;
+}
+p {
+  padding: 2px;
+}
+button {
+  background-color: ;
+  border: 1px solid black;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  /*margin-top:0px;
+  display: inline-block;*/
+  font-size: 16px;
+}
+button:hover {
+  cursor: pointer;
+}
+ul {
+  list-style: none;
+}
